@@ -8,14 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luka1199/wumpus-world.git"
+    "url": "git+https://github.com/karanaithal01/wumpus"
   },
-  "author": "Luka Steinbach",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/luka1199/wumpus-world/issues"
-  },
-  "homepage": "https://github.com/luka1199/wumpus-world#readme",
+  "author": "KARAN AITHAL",
+  "license": "",
+  
+  
   "dependencies": {
     "connect": "^3.7.0",
     "serve-static": "^1.14.1"
